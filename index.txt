@@ -1,3 +1,9 @@
 this is a index forrm
 this is devops project
 
+<<<<<<< HEAD
+=======
+ hello world
+
+
+>>>>>>> b-2
